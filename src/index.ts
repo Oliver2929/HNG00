@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
   const response = {
     email: "fowosereademola@gmail.com",
     current_datetime: new Date().toISOString(),
-    github_url: "https://github.com/Oliver2929/HNG0.git",
+    github_url: "https://github.com/Oliver2929/HNG00.git",
   };
 
   res.status(200).json(response);

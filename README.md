@@ -6,7 +6,7 @@ This is a simple Express-based API that responds with basic information, includi
 
 ## Setup Instructions
 
--**Clone the repository:** 'git clone https://github.com/Oliver2929/HNG0.git' and then cd HNG0
+-**Clone the repository:** 'git clone https://github.com/Oliver2929/HNG00.git' and then cd HNG00
 
 -**Install dependencies:** npm install
 
@@ -30,7 +30,7 @@ This is a simple Express-based API that responds with basic information, includi
 {
   "email": "fowosereademola@gmail.com",
   "current_datetime": "2025-01-29T00:00:00.000Z",
-  "github_url": "https://github.com/Oliver2929/HNG0.git"
+  "github_url": "https://github.com/Oliver2929/HNG00.git"
 }
 ```
 
@@ -49,7 +49,7 @@ This is a simple Express-based API that responds with basic information, includi
 {
   "email": "fowosereademola@gmail.com",
   "current_datetime": "2025-01-30T10:39:29.583Z",
-  "github_url": "https://github.com/Oliver2929/HNG0.git"
+  "github_url": "https://github.com/Oliver2929/HNG00.git"
 }
 ```
 
