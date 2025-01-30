@@ -42,7 +42,7 @@ This is a simple Express-based API that responds with basic information, includi
 
 -**Example Usage:**
 
-- curl https://your-vercel-url.com
+- curl https://hngproject0.vercel.app
 - Response:
 
 ```json
