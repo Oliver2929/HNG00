@@ -30,7 +30,7 @@ This is a simple Express-based API that responds with basic information, includi
 {
   "email": "fowosereademola@gmail.com",
   "current_datetime": "2025-01-29T00:00:00.000Z",
-  "github_url": "https://github.com/Oliver2929/HNG00.git"
+  "github_url": "https://github.com/Oliver2929/HNG00"
 }
 ```
 
@@ -49,7 +49,7 @@ This is a simple Express-based API that responds with basic information, includi
 {
   "email": "fowosereademola@gmail.com",
   "current_datetime": "2025-01-30T10:39:29.583Z",
-  "github_url": "https://github.com/Oliver2929/HNG00.git"
+  "github_url": "https://github.com/Oliver2929/HNG00"
 }
 ```
 
